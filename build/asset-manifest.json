@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/moovyn/static/js/main.238a6776.chunk.js",
-    "main.js.map": "/moovyn/static/js/main.238a6776.chunk.js.map",
+    "main.js": "/moovyn/static/js/main.64b49c0d.chunk.js",
+    "main.js.map": "/moovyn/static/js/main.64b49c0d.chunk.js.map",
     "runtime-main.js": "/moovyn/static/js/runtime-main.2756e5c2.js",
     "runtime-main.js.map": "/moovyn/static/js/runtime-main.2756e5c2.js.map",
     "static/js/2.7e6563e7.chunk.js": "/moovyn/static/js/2.7e6563e7.chunk.js",
     "static/js/2.7e6563e7.chunk.js.map": "/moovyn/static/js/2.7e6563e7.chunk.js.map",
     "index.html": "/moovyn/index.html",
-    "precache-manifest.e7eb26d7208d36e06bbd67603715dae6.js": "/moovyn/precache-manifest.e7eb26d7208d36e06bbd67603715dae6.js",
+    "precache-manifest.52fdfa63f9a4ab89ca3a66e1322294fa.js": "/moovyn/precache-manifest.52fdfa63f9a4ab89ca3a66e1322294fa.js",
     "service-worker.js": "/moovyn/service-worker.js",
     "static/js/2.7e6563e7.chunk.js.LICENSE.txt": "/moovyn/static/js/2.7e6563e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2756e5c2.js",
     "static/js/2.7e6563e7.chunk.js",
-    "static/js/main.238a6776.chunk.js"
+    "static/js/main.64b49c0d.chunk.js"
   ]
 }
