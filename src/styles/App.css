@@ -1,0 +1,15 @@
+.light-blue {
+    color: #5590ad;
+    cursor: pointer;
+}
+
+.links {
+    color: black;
+    text-decoration: none;
+}
+
+.links:hover{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
