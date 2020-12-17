@@ -8,7 +8,7 @@
     text-decoration: none;
 }
 
-.links:hover{
+.links:hover {
     color: black;
     font-weight: bold;
     text-decoration: none;
@@ -19,4 +19,13 @@
     text-decoration: none;
     height: 50px;
     color: black;
+}
+
+.title-pp {
+    color: #c2c2c2;
+}
+
+.container-pp {
+    background: #f2f2f2;
+    border: 1px solid #c2c2c2;
 }
